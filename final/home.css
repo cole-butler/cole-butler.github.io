@@ -1,0 +1,66 @@
+html,body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: url("   dr or health pic?????   ") no-repeat center top;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header{
+    margin: 20px;
+}
+
+nav{
+    background-color: rgba(0,0,0,0.5);
+    padding: 0.5em;
+    text-align:center; 
+    font-size: 18px;
+}
+
+nav li {
+    display: inline; 
+    padding: 13px;
+    color: white;
+    font-family: 'Patua One', fantasy;
+}
+
+nav li a{
+    text-decoration: none;
+    color: white;
+}
+
+.button{
+    background-color: forestgreen;
+    color: white;
+    text-decoration: underline;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 20px 0px;
+    display: table-cell;
+    background-position: center;  
+}
+
+a.button:hover{
+    background-color: black;
+}
+
+section{
+    background-color: rgba(0,0,0,0.5);
+    padding: 1em;
+    margin: 1em;
+    color: white;
+}
+
+H1, p, li{
+    color:white;
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
